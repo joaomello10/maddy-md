@@ -1,6 +1,6 @@
 {
   "$schema": "https://schema.tauri.app/config/2",
-  "productName": "learn-tauri",
+  "productName": "Maddy MD",
   "version": "0.1.0",
   "identifier": "com.learn-tauri.app",
   "build": {
@@ -12,9 +12,9 @@
   "app": {
     "windows": [
       {
-        "title": "learn-tauri",
-        "width": 800,
-        "height": 600
+        "title": "Maddy MD",
+        "fullscreen": false,
+        "maximized": true
       }
     ],
     "security": {
